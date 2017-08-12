@@ -1,0 +1,29 @@
+{
+  "name": "@brycemarshall/environmentjs",
+  "version": "1.0.0",
+  "description": "A utility for determining the executing script's runtime environment (either the DOM or Node.js).",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bryce-marshall/environmentjs.git"
+  },
+  "main": "index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "runtime",
+    "environment",
+    "nodejs",
+    "node",
+    "browser",
+    "dom",
+    "javascript",
+    "typescript"
+  ],
+  "author": "Bryce Marshall",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^8.0.20"
+  }
+}

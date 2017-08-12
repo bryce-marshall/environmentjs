@@ -1,0 +1,18 @@
+{
+  "name": "@brycemarshall/abstract-timer-dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/test",
+  "typings": "test",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^8.0.20",
+    "browserify": "latest"
+  }
+}
