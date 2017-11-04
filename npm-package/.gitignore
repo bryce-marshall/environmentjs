@@ -1,4 +1,3 @@
-environmentjs.src/build
 node_modules
 *.js
 *.d.ts
